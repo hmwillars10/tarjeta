@@ -11494,6 +11494,16 @@ html {
   }
 }
 
+@media (max-width: 425px) {
+  
+  body{
+  }
+  .mapa{
+
+    width: 95%;
+  }
+}
+
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
